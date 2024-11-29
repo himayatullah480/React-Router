@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: black;
+}
+#footer{
+    /* border: 2px solid red; */
+    height: 90px;
+    /* position: absolute; */
+    margin-top: 700px;
+  background-color: slategrey;
+  color: yellow;
+  text-align: center;
+}
+#android{
+    /* border: 2px solid red; */
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 650px;
+}
+#khani{
+    width: 200px;
+    height: 200px;
+}
+#ios{
+    /* border: 2px solid red; */
+    width: 200px;
+    height: 200px;
+    margin-left: 280px;
+    position: absolute;
+    top: 90px;
+    text-align: center;
+}
+#ioss{
+    width: 200px;
+    height: 200px;
+}
